@@ -56,14 +56,3 @@ The role also installs Fail2Ban configured with predetermined jails and filters.
       Status
       |- Number of jail:	4
       `- Jail list:	sshd, zimbra-admin, zimbra-smtp, zimbra-webmail
-
-License
--------
-
-MIT License
-
-Author Information
-------------------
-
-Author: Jan Cubillan<br/>
-GitHub: https://github.com/jancubillan<br/>
